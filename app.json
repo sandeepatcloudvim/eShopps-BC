@@ -1,0 +1,26 @@
+{
+  "id": "2175c62e-5e7e-46e0-8435-b55590f76ba7",
+  "name": "eShopps BC18",
+  "publisher": "CBR Technology",
+  "version": "18.0.0.8",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "18.0.0.0",
+  "idRanges": [
+    {
+      "from": 50000,
+      "to": 99999
+    }
+  ],
+  "contextSensitiveHelpUrl": "https://eShoppsBC18.com/help/",
+  "showMyCode": true,
+  "runtime": "7.0"
+}
