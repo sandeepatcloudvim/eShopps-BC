@@ -1,4 +1,4 @@
-report 50000 "Packing Slip CBRr"
+report 50000 "Packing Slip CBR"
 {
     DefaultLayout = RDLC;
     RDLCLayout = './CBRPackingSlip.rdl';
